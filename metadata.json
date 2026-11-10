@@ -1,0 +1,6 @@
+{
+  "name": "Registro Móvil CSS",
+  "description": "Aplicación interactiva con un teléfono móvil dibujado en CSS centrado con formulario de registro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
